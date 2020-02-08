@@ -12,6 +12,7 @@ And this is collection of several developments that have been carried out so far
 ```
 $ git clone https://github.com/masokky/instagram-tools.git
 $ cd instagram-tools
+$ pkg install nodejs
 $ node index.js
 ```
 
